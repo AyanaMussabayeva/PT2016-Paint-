@@ -1,0 +1,9 @@
+C:\Users\Admin\Source\Repos\NewRepo3\PT2016_Week9G1-master\Example2\bin\Debug\Example2.exe.config
+C:\Users\Admin\Source\Repos\NewRepo3\PT2016_Week9G1-master\Example2\bin\Debug\Example2.exe
+C:\Users\Admin\Source\Repos\NewRepo3\PT2016_Week9G1-master\Example2\bin\Debug\Example2.pdb
+C:\Users\Admin\Source\Repos\NewRepo3\PT2016_Week9G1-master\Example2\obj\Debug\Example2.Form1.resources
+C:\Users\Admin\Source\Repos\NewRepo3\PT2016_Week9G1-master\Example2\obj\Debug\Example2.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\NewRepo3\PT2016_Week9G1-master\Example2\obj\Debug\Example2.csproj.GenerateResource.Cache
+C:\Users\Admin\Source\Repos\NewRepo3\PT2016_Week9G1-master\Example2\obj\Debug\Example2.exe
+C:\Users\Admin\Source\Repos\NewRepo3\PT2016_Week9G1-master\Example2\obj\Debug\Example2.pdb
+C:\Users\Admin\Source\Repos\NewRepo3\PT2016_Week9G1-master\Example2\obj\Debug\Example2.csprojResolveAssemblyReference.cache
